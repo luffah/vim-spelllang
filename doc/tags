@@ -1,0 +1,5 @@
+g:spelllang_dirs	spelllang.txt	/*g:spelllang_dirs*
+spelllang	spelllang.txt	/*spelllang*
+spelllang-contents	spelllang.txt	/*spelllang-contents*
+spelllang-globals	spelllang.txt	/*spelllang-globals*
+spelllang.vim	spelllang.txt	/*spelllang.vim*
